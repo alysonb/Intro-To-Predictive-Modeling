@@ -2,6 +2,9 @@
 STA 380 Summer 2018
 
 Includes:
+
 -Homework 1
--Homework 2 
+
+-Homework 2
+
 -Final Exam
